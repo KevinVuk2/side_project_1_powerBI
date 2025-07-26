@@ -1,4 +1,4 @@
-![alt text](image-url)
+![data_professional](data_professional.jpg)
 # Data Professional Survey Breakdown
 
 This repository contains the Power BI project file and resources for a comprehensive survey analysis of data professionals. The interactive dashboard visualizes key aspects of their professional lives, including demographics, salary, preferred programming languages, and job satisfaction.
