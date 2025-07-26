@@ -32,6 +32,5 @@ The dashboard is comprised of the following key visualizations:
 
 # 🛠️ Technical Details
 
-Tool: The dashboard was developed using Microsoft Power BI.
-
-Data Source: The visualizations are based on a survey of data professionals.
+- Tool: The dashboard was developed using Microsoft Power BI.
+- Data Source: The visualizations are based on a survey of data professionals.
